@@ -1,6 +1,6 @@
 # osaka-jade.nvim
 
-A Neovim port of the [Osaka Jade](https://github.com/Justikun/omarchy-osaka-jade-theme) theme from the [Omarchy](https://github.com/basecamp/omarchy) project.
+A Neovim port of the [Osaka Jade](https://github.com/Justikun/omarchy-osaka-jade-theme) theme by [Justin Lowry](https://github.com/Justikun), originally created for [Omarchy](https://github.com/basecamp/omarchy).
 
 ![Neovim](https://img.shields.io/badge/Neovim-0.8+-green?logo=neovim&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue)
@@ -85,8 +85,7 @@ use {
 
 ## Credits
 
-- Original [Osaka Jade](https://github.com/Justikun/omarchy-osaka-jade-theme) theme by [Justin Lowry](https://github.com/Justikun)
-- Part of the [Omarchy](https://github.com/basecamp/omarchy) theme collection by Basecamp
+Color palette by [Justin Lowry](https://github.com/Justikun) from his [Osaka Jade](https://github.com/Justikun/omarchy-osaka-jade-theme) theme for [Omarchy](https://github.com/basecamp/omarchy).
 
 ## License
 
